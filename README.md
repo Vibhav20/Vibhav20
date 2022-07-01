@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Vibhav20
+- 👋 Hi, I’m @vibhav20
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Exploratory Data Analysis 
-- 💞️ I’d love to work on some Sports related Analytics project
-- 📫 How to reach me : vibhav.p10@gmail.com
+- 💞️ I’d love to work on some Sports related Data Science/Analytics project
+- 📫 How to reach me : vibhavwrk@gmail.com
 
 <!---
 Vibhav20/Vibhav20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
