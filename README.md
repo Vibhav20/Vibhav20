@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vibhav20
+- 👋 Hi, I’m Vibhav!
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Exploratory Data Analysis 
 - 💞️ I’d love to work on some Sports related Data Science/Analytics project
