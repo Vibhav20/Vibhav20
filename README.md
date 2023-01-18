@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vibhav!
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Exploratory Data Analysis 
+- 🌱 I’m currently doing Python related ML projects
 - 💞️ I’d love to work on some Sports related Data Science/Analytics project
 - 📫 How to reach me : vibhavwrk@gmail.com
 
